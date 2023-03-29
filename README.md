@@ -60,12 +60,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Mobile first portfolio<a name="Mobile first portfolio"></a>
-https://mercymugambi.github.io/set-up-mobile-first-portfolio/
+# 📖 ES6-AWESOME BOOK<a name="ES6 Awesome Book"></a>
 
-> This is my second microverse project under this program.
+> This is my second project building with javascript under this program.
 
-**setup mobile first portfolio** is a project where i test my web programming skills.
+**ES6 Awesome Book** is a project where i test my Javascript programming skills.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -73,12 +72,16 @@ https://mercymugambi.github.io/set-up-mobile-first-portfolio/
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> This is a mobile project.
+> This is a web based project.
 
 <details>
   <summary>Client</summary>
   <ul>
     <li><a href="https://html.org/">index.html</a>HTML</li>
+  </ul>
+
+  <ul>
+    <li><a href="https://javascript.org/">javascript.js</a>Javascript</li>
   </ul>
 
   <ul>
@@ -92,7 +95,7 @@ https://mercymugambi.github.io/set-up-mobile-first-portfolio/
 
 > The key features are:
 
-- **create responsive welcome page**
+- **create a better contact form**
 - **Visualize the template**
 - **implement linters**
 
@@ -120,7 +123,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/mercymugambi/hello-microverse.git.com:myaccount/my-project.git
+  git clone link of this project
 ```
 
 ### Usage
@@ -164,18 +167,6 @@ github pages
 - Twitter: [@mercymugambi](https://twitter.com/MercyMugambi15)
 - LinkedIn: [@mercymugambi](https://www.linkedin.com/in/mercymugambi/)
 
-👤 **Gladwin Tshepo Ramantso**
-
-- GitHub: [@tsheporamantso](https://github.com/tsheporamantso)
-- Twitter: [@ramgt001](https://twitter.com/tsheporamantso)
-- LinkedIn: [@GladwinTshepoRamantso](https://www.linkedin.com/in/tshepo-ramantso-b6a35433/)
-
-👤 **Marwan Abdelsattar**
-
-- GitHub: [@MarwanDev ](https://github.com/MarwanDev)
-- Twitter: [@marwaneg](https://twitter.com/MarwanEg)
-- LinkedIn: [@Marwan Abdelsattar](https://www.linkedin.com/in/marwan-abdelsattar-665a59105/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -185,8 +176,8 @@ github pages
 > Below are future features to be added.
 
 - **more_content**
-- **desktop_version**
-- **contact_details**
+- **mobile_version**
+- **contact_details update**
 - **JavaScript Functionality**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -211,7 +202,7 @@ If you like this project, follow and contact me back.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank microverse community and my coding partner(Yinka and Gladwin) for their dedicated time to encourage me achieve the best. 
+I would like to thank microverse community and my coding partners for their dedicated time to encourage me achieve the best. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

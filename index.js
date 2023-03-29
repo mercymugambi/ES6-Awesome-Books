@@ -1,3 +1,4 @@
+/* eslint-disable import/extensions */
 // Form local storage availability checker function
 import Bookshelf, { isStorageAvailable } from './modules/Books.js';
 import { DateTime } from './modules/luxon.js';
